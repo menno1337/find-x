@@ -8,4 +8,4 @@ Then you have to drag and grop the +9 and the -9, because the are neighbours you
 x = 13-9. 
 Now you have to swipe right from 13 and you geht the result: x=4, and the equation is solved. 
 
-You are allowed to do most algebraic transformations, but the will be revieled only after a few of simple equations and are seen as rewards for your previous work.
+You are allowed to do most algebraic transformations, that will be revieled as rewards for previous solving of easier equations.
